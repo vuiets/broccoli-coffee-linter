@@ -1,0 +1,8 @@
+# Files to not push via git
+node_modules
+tmp
+dist*/
+npm-debug.log
+
+# editor dump
+/.idea/*
